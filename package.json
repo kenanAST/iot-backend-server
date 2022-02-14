@@ -1,0 +1,16 @@
+{
+  "name": "real-time-kenan",
+  "version": "1.0.0",
+  "description": "Test in creating Real-time APIs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Kenan Cinches",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "serialport": "^10.3.0",
+    "socket.io": "^4.4.1"
+  }
+}
